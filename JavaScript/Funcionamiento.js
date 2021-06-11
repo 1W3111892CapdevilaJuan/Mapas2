@@ -79,7 +79,7 @@ function mostrarMapa(latitudd, longitudd) {
     //Step 1: initialize communication with the platform
     // Replace variable YOUR_API_KEY with your own apikey
     var platform = new H.service.Platform({
-        apikey: "_HV8dBY3T5xrreVsR2c7XI2zuB_RgPpJZ-9yQC6CUYY"   // INGRESAMOS NUESTRA API KEY
+        apikey: "GplLoQn3mkRdQMmGxWeSEQo7SA_-7ozZzkV6w_G3pe4"   // INGRESAMOS NUESTRA API KEY
     });
     var defaultLayers = platform.createDefaultLayers();
     //Step 2: initialize a map - this map is centered over Europe
